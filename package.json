@@ -1,0 +1,17 @@
+{
+  "name": "discord-invite-bot",
+  "version": "1.0.0",
+  "description": "Um bot para Discord de gerenciamento de convites e recompensas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "firebase-admin": "^11.11.1",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
